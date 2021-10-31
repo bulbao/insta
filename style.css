@@ -1,0 +1,16 @@
+head,body,h1 {margin:0p;}
+h1 {font-family: Verdana;}
+.instagram1{font-size: 16px; padding-left: 700px;}
+.instagram2{font-size: 14px; padding-left: 200px; color: lightskyblue; }
+.img {text-align: center; background-color: #ffffff;}
+.tat {font-size: 24px;padding-left: 50px;}
+.sup {font-size: 14px ; background-color: rgb(101, 210, 247); color: white;}
+.basic {font-family: 'Times New Roman';
+text-align: center;
+direction: ltr;} 
+.number {font-weight: bolder;}
+.basic1 {font-family: 'Times New Roman';
+    text-align: center}
+    div{display: inline-block;
+    text-align: center;}
+.zagolovki {text-align: center;}
