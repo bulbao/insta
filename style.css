@@ -1,8 +1,8 @@
 body {width: 100%;
     margin:auto;}
-th {width:100%;
+nav {width:100%;
 margin: auto;}
-th.th1 {text-align: left;
+.th1 {text-align: left;
 font-size: 24pt;
 padding-left: 35%;}
 .th3 {color: aqua;}
